@@ -2,7 +2,7 @@
  <br />
  
  
- # Core Notes 📊  
+ # Core Notes 📒
 
 ***➡ Para acessar o Back End dessa aplicação: [Clique aqui](https://github.com/brenofigueiredoo/volpi_project_drink_water_tracker_back-end)***
 
