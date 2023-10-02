@@ -9,4 +9,4 @@ Embora o layout não tenha sido inicialmente delineado no Figma, foi criada uma 
 
 ### Funcionalidades Abrangentes para Notas
 
-O sistema permite uma gama de ações envolvendo as notas do usuário. É possível criar novas notas, atualizar existentes, deletar as que não são mais necessárias, além de contar com uma funcionalidade de filtro, tornando a busca e organização das notas extremamente eficazes.
+O sistema permite uma gama de ações envolvendo as notas do usuário. É possível criar um usuário e novas notas, atualizar existentes, deletar as que não são mais necessárias, além de contar com uma funcionalidade de filtro, tornando a busca e organização das notas extremamente eficazes.
